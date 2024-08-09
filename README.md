@@ -33,13 +33,5 @@ Raisecoin is a revolutionary project aimed at addressing the global challenge of
 
 Our primary focus is to provide a user-friendly and aesthetically pleasing UI/UX, addressing a significant gap in the Web3 space. We believe that an intuitive and engaging interface is crucial for the success and adoption of blockchain projects. As we progress, we will continue to enhance and refine the user experience.
 
-## Contributing
-
-We welcome contributions to enhance Raisecoin. To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
 
 
